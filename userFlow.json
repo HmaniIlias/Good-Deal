@@ -1,0 +1,19 @@
+{
+	"title": "Computing",
+	"type": "objetc",
+	"properties": {
+		"town": {
+			"type": "string"
+		},
+		"price": {
+			"type": "string"
+		},
+		"price_m²": {
+			"type": "integer"
+		},
+		"surface": {
+			"type": "integer"
+		}
+	},
+	"required": ["town", "price","price_m²","surface"]
+}

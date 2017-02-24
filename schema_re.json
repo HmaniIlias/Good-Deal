@@ -1,0 +1,25 @@
+{
+	"title": "Info compute",
+	"type": "objetc",
+	"properties": {
+		"adress": {
+			"street": "string"
+			"postalCode": "integer"
+		},
+		"type": {
+			"street": "string"
+		},
+		"surface_carrez": {
+			"type": "integer"
+		},
+		"nb_pièces": {
+			"type": "integer"
+		},
+		"nb_salleDeBain": "1",
+		"etage": "0",
+		"qualite": "Comparable"
+		
+		
+	},
+	"required": ["town", "Pm²_A","Pm²_M"]
+}

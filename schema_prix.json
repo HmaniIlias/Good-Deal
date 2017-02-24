@@ -1,0 +1,22 @@
+{
+	"title": "Info real estate",
+	"type": "objetc",
+	"properties": {
+		"town": {
+			"type": "string"
+		},
+		"type": {
+			"type": "string"
+		},
+		"price": {
+			"type": "integer"
+		},
+		"surface": {
+			"type": "integer"
+		},
+		"pieces": {
+			"type": "integer"
+		}
+	},
+	"required": ["town", "type","surface"]
+}
